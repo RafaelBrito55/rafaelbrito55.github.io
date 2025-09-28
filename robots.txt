@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap específico do projeto Calcula-tudo-online hospedado em subpasta
+Sitemap: https://rafaelbrito55.github.io/sitemap_calcula_tudo_online.xml
